@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79039ac5-2e38-44a4-bf96-0c5f8bbdbe6b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1lUkHXfNzwheXcY5qiX5sowG7CH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build iotflux/main" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="iotflux" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main/demo.go" />
+      <package value="iotflux/main" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="iotflux" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="iotflux" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build main.go" />
+      <item itemvalue="Go Build.go build main.go (1)" />
+      <item itemvalue="Go Build.go build iotflux/main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build iotflux/main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="567" y="333" width="1092" height="974" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607660166016">
+      <screen x="67" y="27" width="2093" height="1413" />
+    </state>
+    <state x="567" y="333" width="1092" height="974" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.2093.1413@67.27.2093.1413" timestamp="1607660166016" />
+    <state x="704" y="503" width="808" height="458" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607671557410">
+      <screen x="67" y="27" width="2093" height="1413" />
+    </state>
+    <state x="704" y="503" width="808" height="458" key="#com.intellij.fileTypes.FileTypeChooser/67.27.2093.1413@67.27.2093.1413" timestamp="1607671557410" />
+    <state x="843" y="433" width="530" height="598" key="FileChooserDialogImpl" timestamp="1607842774850">
+      <screen x="67" y="27" width="2093" height="1413" />
+    </state>
+    <state x="843" y="433" width="530" height="598" key="FileChooserDialogImpl/67.27.2093.1413@67.27.2093.1413" timestamp="1607842774850" />
+    <state width="2023" height="368" key="GridCell.Tab.0.bottom" timestamp="1607842941717">
+      <screen x="67" y="27" width="2093" height="1413" />
+    </state>
+    <state width="2023" height="368" key="GridCell.Tab.0.bottom/67.27.2093.1413@67.27.2093.1413" timestamp="1607842941717" />
+    <state width="2023" height="368" key="GridCell.Tab.0.center" timestamp="1607842941716">
+      <screen x="67" y="27" width="2093" height="1413" />
+    </state>
+    <state width="2023" height="368" key="GridCell.Tab.0.center/67.27.2093.1413@67.27.2093.1413" timestamp="1607842941716" />
+    <state width="2023" height="368" key="GridCell.Tab.0.left" timestamp="1607842941715">
+      <screen x="67" y="27" width="2093" height="1413" />
+    </state>
+    <state width="2023" height="368" key="GridCell.Tab.0.left/67.27.2093.1413@67.27.2093.1413" timestamp="1607842941715" />
+    <state width="2023" height="368" key="GridCell.Tab.0.right" timestamp="1607842941716">
+      <screen x="67" y="27" width="2093" height="1413" />
+    </state>
+    <state width="2023" height="368" key="GridCell.Tab.0.right/67.27.2093.1413@67.27.2093.1413" timestamp="1607842941716" />
+    <state width="2023" height="461" key="GridCell.Tab.1.bottom" timestamp="1607697862027">
+      <screen x="67" y="27" width="2093" height="1413" />
+    </state>
+    <state width="2023" height="461" key="GridCell.Tab.1.bottom/67.27.2093.1413@67.27.2093.1413" timestamp="1607697862027" />
+    <state width="2023" height="461" key="GridCell.Tab.1.center" timestamp="1607697862026">
+      <screen x="67" y="27" width="2093" height="1413" />
+    </state>
+    <state width="2023" height="461" key="GridCell.Tab.1.center/67.27.2093.1413@67.27.2093.1413" timestamp="1607697862026" />
+    <state width="2023" height="461" key="GridCell.Tab.1.left" timestamp="1607697862026">
+      <screen x="67" y="27" width="2093" height="1413" />
+    </state>
+    <state width="2023" height="461" key="GridCell.Tab.1.left/67.27.2093.1413@67.27.2093.1413" timestamp="1607697862026" />
+    <state width="2023" height="461" key="GridCell.Tab.1.right" timestamp="1607697862027">
+      <screen x="67" y="27" width="2093" height="1413" />
+    </state>
+    <state width="2023" height="461" key="GridCell.Tab.1.right/67.27.2093.1413@67.27.2093.1413" timestamp="1607697862027" />
+    <state x="455" y="280" key="SettingsEditor" timestamp="1607659278700">
+      <screen x="67" y="27" width="2093" height="1413" />
+    </state>
+    <state x="455" y="280" key="SettingsEditor/67.27.2093.1413@67.27.2093.1413" timestamp="1607659278700" />
+  </component>
+</project>
